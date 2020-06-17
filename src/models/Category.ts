@@ -8,11 +8,11 @@ class Category {
   @Column()
   title: string;
 
-  @Column({ name: 'created_at' })
-  createdAt: Date;
+  @Column()
+  created_at: Date;
 
-  @Column({ name: 'updated_at' })
-  updatedAt: Date;
+  @Column()
+  updated_at: Date;
 }
 
 export default Category;
