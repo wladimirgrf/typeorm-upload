@@ -151,8 +151,3 @@ Para esse desafio, temos os seguintes testes:
 - **`should be able to import transactions`**: Para que esse teste passe, sua aplicação deve permitir que seja importado um arquivo csv, contendo o seguinte [modelo](.github/file.csv). Com o arquivo importado, você deve permitir que seja criado no banco de dados todos os registros e categorias que estavam presentes nesse arquivo, e retornar todas as transactions que foram importadas.
 
 **Dica**: Caso você tenha dificuldades com a leitura de CSV, temos um [guia no Notion](https://www.notion.so/Importando-arquivos-CSV-com-Node-js-2172338480cb47e28a5d3ed9981c38a0).
-
-
----
-
-By Rocketseat 🚀
